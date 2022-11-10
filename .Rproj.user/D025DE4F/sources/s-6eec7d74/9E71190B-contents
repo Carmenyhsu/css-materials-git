@@ -1,0 +1,9 @@
+#terminal/command line commands:
+   #pwd（terminal command）,cd,ls
+
+#git commands:
+   git init
+   git status
+   git add
+   git commit
+   git push
