@@ -2,8 +2,8 @@
    #pwd（terminal command）,cd,ls
 
 #git commands:
-   git init
-   git status
-   git add
-   git commit
-   git push
+   #git init
+   #git status
+   #git add
+   #git commit -m "your commit message" = commit
+   #git push
